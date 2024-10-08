@@ -14,3 +14,8 @@ Currently, I offer my expertise as a **Lead Developer** and **Flutter Trainer**,
 Feel free to reach out if you'd like to discuss a project, need assistance with **Flutter development**, or are interested in collaborating on an exciting **open-source** initiative! ✨
 
 📧 [Contact me via email](mailto:jerome.ghesquiere@gmail.com)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromegsq&layout=compact)
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=jeromegsq&show_icons=true&theme=transparent)
