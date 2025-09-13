@@ -15,7 +15,4 @@ Feel free to reach out if you'd like to discuss a project, need assistance with 
 
 📧 [Contact me via email](mailto:jerome.ghesquiere@gmail.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromegsq&layout=compact)
-
-
 ![stats](https://github-readme-stats.vercel.app/api?username=jeromegsq&show_icons=true&theme=transparent)
